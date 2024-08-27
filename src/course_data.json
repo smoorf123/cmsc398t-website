@@ -1,0 +1,231 @@
+{
+	"course_info": {
+		"course_code": "CMSC398T",
+		"title": "Beyond Aesthetics: Accessible Frontend Design",
+		"note": "Note that everything below is subject to change by the instructional team, with advanced notice from us.",
+		"description": "This course is intended to familiarize students with technologies and skills to build a modern website giving adequate consideration to inclusive design, emerging frameworks, design trends, and user experience. By the end of this course, students will have a polished portfolio website demonstrating their skill set and projects to peers and employers alike."
+	},
+	"details": {
+		"Course": "CMSC398T",
+		"Prerequisites": "C- or higher in CMSC216 and CMSC250",
+		"Credits": "1",
+		"Seats": "30",
+		"LectureTime": "Friday, 2-2:50 PM",
+		"Location": "CSI3120",
+		"Semester": "Fall 2024",
+		"Textbook": "N/A",
+		"CourseFacilitators": [
+			{
+				"name": "Sriman Selvakumaran",
+				"email": "srimans@umd.edu"
+			},
+			{
+				"name": "Somil Varshney",
+				"email": "somilv@umd.edu"
+			}
+		],
+		"Faculty Advisor": {
+			"name": "Evan Golub",
+			"email": "egolub@cs.umd.edu"
+		}
+	},
+	"topics_covered": [
+		"Logistics",
+		"Expectations, Deliverables, etc.",
+		"Additional Administrative",
+		"UX Introduction and Case Study",
+		"Design Fundamentals – Accessibility Focus",
+		"Font Selection",
+		"Color Scheme (Accommodating Visual Disabilities)",
+		"Website Composition",
+		"Mood Board / Creating a Vision (Low-Fidelity Mockups)",
+		"User Experience – Promoting Inclusive Web Design (UX)",
+		"7 Principles of Inclusive Design",
+		"Accessibility Considerations",
+		"Design Psychology (Human-Computer Interaction Focus)",
+		"Design Prototyping",
+		"Low-Fidelity Prototyping",
+		"Industry Software",
+		"Medium-Fidelity Mockups with Figma",
+		"Frontend Programming",
+		"HTML5, CSS",
+		"Introduction to TailwindCSS",
+		"Next.js",
+		"Introduction",
+		"Components",
+		"Typescript + Typescript XML (TSX)",
+		"Routing (Model)",
+		"Advanced Frontend Topics",
+		"Search Engine Optimization",
+		"Rendering Models",
+		"Some Nice Libraries",
+		"Framer Motion",
+		"Aceternity",
+		"Three.js",
+		"Shad.CN",
+		"+ more",
+		"Deploying a Website",
+		"Domain Name Registration (DNS)",
+		"Web-Hosting Options"
+	],
+	"schedule": [
+		{
+			"Week": "1",
+			"Date": "08/30",
+			"Topic": "Logistics, Motivation, Introduction to UX",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "2",
+			"Date": "09/06",
+			"Topic": "Design Fundamentals",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "3",
+			"Date": "09/13",
+			"Topic": "UX Deep-Dive (Accessibility Focus)",
+			"Assignment": "In-Class, Checkpoint 1 Assigned"
+		},
+		{
+			"Week": "4",
+			"Date": "09/20",
+			"Topic": "Low-Fidelity Software Intro",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "5",
+			"Date": "09/27",
+			"Topic": "UX Continued",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "6",
+			"Date": "10/04",
+			"Topic": "Checkpoint 1 Workshop",
+			"Assignment": "Checkpoint 1 Due"
+		},
+		{
+			"Week": "7",
+			"Date": "10/11",
+			"Topic": "HTML5 + CSS intro",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "8",
+			"Date": "10/18",
+			"Topic": "Next.js intro",
+			"Assignment": "In-Class, Checkpoint 2 Assigned"
+		},
+		{
+			"Week": "9",
+			"Date": "10/25",
+			"Topic": "Next.js cont.",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "10",
+			"Date": "11/01",
+			"Topic": "Flex (Office Hours / Extra Lecture Day)",
+			"Assignment": null
+		},
+		{
+			"Week": "11",
+			"Date": "11/08",
+			"Topic": "Checkpoint 2 Workshop",
+			"Assignment": "Checkpoint 2 Due"
+		},
+		{
+			"Week": "12",
+			"Date": "11/15",
+			"Topic": "Advanced Frontend Topics",
+			"Assignment": "Final Project Assigned"
+		},
+		{
+			"Week": "13",
+			"Date": "11/22",
+			"Topic": "Deployment and SEO",
+			"Assignment": "In-Class"
+		},
+		{
+			"Week": "14",
+			"Date": "11/28",
+			"Topic": "Thanksgiving Break",
+			"Assignment": null
+		},
+		{
+			"Week": "15",
+			"Date": "12/06",
+			"Topic": "Flex (Office Hours / Extra Lecture Day)",
+			"Assignment": null
+		},
+		{
+			"Week": "16",
+			"Date": "12/13",
+			"Topic": "Office Hours",
+			"Assignment": "Final Project Due"
+		}
+	],
+	"checkpoints": {
+		"checkpoint_1": {
+			"weight": "15%",
+			"description": "Checkpoint 1 will include going over your design vision and discussing design concepts through a low-fidelity mockup"
+		},
+		"checkpoint_2": {
+			"weight": "15%",
+			"description": "Checkpoint 2 will include going over a partial implementation of the final website and seeing how well you were able to incorporate your design vision from checkpoint 1."
+		}
+	},
+	"final_project": {
+		"weight": "50%",
+		"description": "The Final Project for this course will be a summation of everything learned throughout the semester. This will serve as the final (major grading event) for the class (50%). It will be an extension of Checkpoint 2 as the only difference will be meeting all of the page requirements (about page, projects page, etc.) for your website and showing off your creativity and eye for detail. You will be able to (and encouraged!) deploy your web application at the end of the semester based on methods discussed in the deployment portion of the class."
+	},
+	"grading": {
+		"Checkpoints 1 & 2": "15% each",
+		"Presentation": "20% (out of 15%)",
+		"Submission": "80% (out of 15%)",
+		"Final Project grade": "50%",
+		"Class Participation": "20%"
+	},
+	"late_policy": {
+		"note": "Given the nature of the things such as checkpoints being in-class presentations, submissions past the date of workshop will not be accepted. This is mainly due to the tight scheduling and inability to accommodate presentation times beyond what is pre-determined. If late work is due to a university approved absence (such as medical leave, for further information see here), students may either be given the chance to submit an online recording of their presentation or speak to course facilitators for special accommodations. Please note, for such absences, proper documentation must be provided before or after said absence in a reasonable amount of time (up to a week after will be permitted for checkpoints 1 and 2)."
+	},
+	"class_participation": {
+		"note": "As 20% of your grade is based on class participation, all students are expected to come to class each week however each student will get 2 self-documented excused absences to adjust for unexpected circumstances. This is separate from University-approved absences. Class participation may include in-class activities or take home assignments which involve concepts discussed in class. This is with the aim to reinforce learning and extend scope of lecture topics in the short amount of time at hand. Grading for class participation will be done at the end of the semester before final grades are released. Each activity is equally weighted and graded on completion, with facilitators keeping track internally of in-class participation. You may request to see your own participation grade anytime during the semester and the facilitators will contact you accordingly. Though these activities will not be graded for correctness, detailed feedback will be provided where possible as each activity builds towards topic comprehension and successfully delivering your portfolio website."
+	},
+	"fair_use": {
+		"note": "This section pertains to the following: Using Templates - for design or Frontend development Large-language models (ChatGPT, Gemini, Devin, Copilot, etc.) Stack Overflow or other online forums Collaborating with peers. Students are encouraged to use online technologies to aid their learning of new frameworks, concepts, and practice topics covered in this course. In case you plan to use some form of online resource (AI or otherwise) we require you to outline what you would like permission to do before you do it. This must be disclosed beforehand via email at least 2 days before submission. If given permission, we also require you to clearly cite usage as an in-code comment or part of documentation. This will be considered on a case-by-case basis as we navigate the line between plagiarism and fair use and the respective decision will try to be conveyed within 48 hours. The policy is to follow Vegas rules– code found online stays online however learnings are taken away and implemented."
+	},
+	"academic_integrity": {
+		"note": "Note that academic dishonesty includes not only cheating, fabrication, and plagiarism, but also includes helping other students commit acts of academic dishonesty by allowing them to obtain copies of your work. In short, all submitted work must be your own. Cases of academic dishonesty will be forwarded to the Office of Student Conduct. You need to be aware of the consequences of cheating, fabrication, facilitation, and plagiarism. For more information on the Code of Academic Integrity or the Student Honor Council, please visit http://www.shc.umd.edu."
+	},
+	"course_evaluations_feedback": {
+		"note": "We love feedback! This will be a brand-new STIC and hearing input (especially input while the class is still going on) is how this class can improve. Don’t hesitate to tell any course staff about suggestions, complaints, etc., either in person or through email! Also don’t forget to provide feedback using CourseExp at the end of the semester. We take all feedback seriously and hope to integrate it in the future for a better overall experience."
+	},
+	"other_administrative_policies": {
+		"communicating_with_staff": {
+			"note": "Communicating with staff is highly encouraged in cases where you are struggling with any course content and want help accessing resources to improve your overall understanding."
+		},
+		"method_of_communication": {
+			"primary": "We will be using Slack for most out-of-class communications.",
+			"note": "All students will be sent an invite at the beginning of the semester with the expectation that any collaboration and course questions will be communicated on the appropriate channels. However, email will be the preferred method of communication for any logistical or administrative questions."
+		},
+		"staff_contact": [
+			{
+				"name": "Somil Varshney",
+				"email": "somilv@umd.edu"
+			},
+			{
+				"name": "Sriman Selvakumaran",
+				"email": "srimans@umd.edu"
+			}
+		]
+	},
+	"excused_absences_academic_accommodations": {
+		"note": "As mentioned in section Class Participation, you will receive 2 self-documented excused absences. For all other cases, read the Late Policy section.",
+		"academic_accommodation": "Any academic accommodation recognized by the University with appropriate documentation will also be recognized by course staff appropriately. Please refer to the section titled 'Attendance and Missed Assignments' available at Course Related Policies to see what qualifies at the University level."
+	},
+	"disability_support_accommodations": {
+		"note": "See the section titled 'Accessibility' available at Course Related Policies."
+	}
+}
